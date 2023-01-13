@@ -23,5 +23,4 @@ Criamos duas relações com as seguintes cardinalidades.
 Victor Alves Vaz 
 
 
-
-![image](https://user-images.githubusercontent.com/114522900/212335401-4f7a6de9-66fc-4ecc-bec9-586599cbfe84.png)
+![image](https://user-images.githubusercontent.com/114522900/212335845-54444f04-7c2a-400b-a456-ee5ab6875a1c.png)
